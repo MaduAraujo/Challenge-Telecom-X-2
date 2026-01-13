@@ -34,3 +34,9 @@ O projeto foi dividido em quatro etapas principais, distribuídas ao longo de tr
 * **Visualização:** Plotly, Seaborn
 * **Machine Learning:** Scikit-learn
 * **Processamento de Dados Desbalanceados:** Imbalanced-learn
+
+## Badge Conquistada
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/94e24d20-7dd9-4326-b18e-141d14ce61a5" alt="Oracle Next Education Badge" width="260">
+</div>
